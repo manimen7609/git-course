@@ -1,2 +1,4 @@
 user data is added successfully!
 Final.
+
+create an avtar for user!
